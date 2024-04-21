@@ -200,14 +200,14 @@ graph LR
   
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
   
-  classDef stop fill:#F00;
-  class 2.2,2.3,5.3,5.6,7.3,7.9,7.12,7.15,7.21,7.24 stop;
-
-  classDef solution fill:#4F4;
-  class 8.9,8.26,10.9,10.26,10.35,10.44,10.61 solution;
-  
-  classDef initState fill:#FF4;
-  class 3.1 initState;
+  classDef stop fill:#400;
+	class 2.2,2.3,5.3,5.6,7.3,7.9,7.12,7.15,7.21,7.24 stop
+	
+	classDef solution fill:#040;
+	class 8.9,8.26,10.9,10.26,10.35,10.44,10.61 solution
+	
+	classDef initState fill:#440;
+	class 3.1 initState
 
 ```
 
@@ -413,13 +413,12 @@ graph TD
   
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%;
   
-  classDef stop fill:#F00;
-  class 2.2,2.3,5.3,5.6,7.3,7.9,7.12,7.15,7.21,7.24 stop;
-
-  classDef solution fill:#4F4;
-  class 8.9,8.26,10.9,10.26,10.35,10.44,10.61 solution;
-  
-  classDef initState fill:#FF4;
-  class 3.1 initState;
-
+  classDef stop fill:#400;
+	class 2.2,2.3,5.3,5.6,7.3,7.9,7.12,7.15,7.21,7.24 stop
+	
+	classDef solution fill:#040;
+	class 8.9,8.26,10.9,10.26,10.35,10.44,10.61 solution
+	
+	classDef initState fill:#440;
+	class 3.1 initState
 ```
